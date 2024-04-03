@@ -28,6 +28,7 @@ export default function About() {
         rewarding experience, and ListNLease is dedicated to making that a
         reality for each and every one of our clients.
       </p>
+      <p className="mt-10 text-center text-3xl">***</p>
     </div>
   );
 }
